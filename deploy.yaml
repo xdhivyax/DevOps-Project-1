@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myimage
-        image: dhivya2409/demo:v1
+        image: dhivya2409/demo:v2
         ports:
         - containerPort: 80    
